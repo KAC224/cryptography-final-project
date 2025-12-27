@@ -75,8 +75,7 @@ E = I × V × t ( 240mA × 3.3V × runtime )
 
 Our values recorded and compiled:
 
-https://docs.google.com/spreadsheets/d/1KiR-zsGjsxFA1s0mBJkZR86d-E4Fy5VOTnpXLBamoT4/edit?u
-sp=sharing
+https://docs.google.com/spreadsheets/d/1KiR-zsGjsxFA1s0mBJkZR86d-E4Fy5VOTnpXLBamoT4/edit?usp=sharing
 
 # How to Use:
 ● For handshake systems → Kyber/SABER recommended
